@@ -8,6 +8,7 @@ public class BMW {
 		System.out.println("This is BMW colour");
 		
 		
+		
 	}
 	
 	
@@ -15,8 +16,8 @@ public class BMW {
 	{
 		
 		System.out.println("This is BMW model");
-		
-		
+		System.out.println("This is BMW model 2");
+		System.out.println("This is BMW model 3");
 	}
 	
 
