@@ -16,5 +16,13 @@ public class Testers {
 		System.out.println("This is automation tester");
 		
 	}
+	
+	public void API()
+	{
+		
+		System.out.println("This is API tester");
+		
+	}
+	
 
 }
