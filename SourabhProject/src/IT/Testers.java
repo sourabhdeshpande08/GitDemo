@@ -24,5 +24,12 @@ public class Testers {
 		
 	}
 	
+	public void appium()
+	{
+		
+		System.out.println("This is appium tester");
+		
+	}
+	
 
 }
